@@ -52,7 +52,7 @@ import static org.junit.jupiter.api.Assertions.*;
                 miCalculadora.divide(5,0);
             });
 
-            assertEquals("El divisor es 0", thrown.getMessage());
+            assertEquals("El diviiissssor es 0", thrown.getMessage());
 
 
         }
