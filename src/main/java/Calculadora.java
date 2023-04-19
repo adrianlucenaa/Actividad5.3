@@ -13,7 +13,7 @@ public class Calculadora {
 
     double divide(double dividendo, double divisor) throws Exception {
         if (divisor == 0) {
-            throw new Exception("El divisor es 0");
+            throw new Exception("El DIVISOR es 0");
         }
         return dividendo / divisor;
     }
